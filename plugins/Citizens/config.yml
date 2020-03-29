@@ -89,7 +89,7 @@ advanced:
   check-minecraft-version: true
 economy:
   npc:
-    cost: 10000000.0
+    cost: 1.0E7
 storage:
   save-task:
     delay: 72000
