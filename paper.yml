@@ -94,7 +94,7 @@ world-settings:
     disable-teleportation-suffocation-check: false
     per-player-mob-spawns: false
     use-vanilla-world-scoreboard-name-coloring: false
-    remove-corrupt-tile-entities: false
+    remove-corrupt-tile-entities: true
     enable-treasure-maps: true
     treasure-maps-return-already-discovered: false
     experience-merge-max-value: -1
