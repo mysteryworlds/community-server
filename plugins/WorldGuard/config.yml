@@ -49,7 +49,7 @@ protection:
     item-durability: true
     remove-infinite-stacks: false
     disable-xp-orb-drops: false
-    disable-obsidian-generators: false
+    disable-obsidian-generators: true
 gameplay:
     block-potions: []
     block-potions-overly-reliably: false
