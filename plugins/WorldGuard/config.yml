@@ -23,7 +23,7 @@ regions:
     claim-only-inside-existing-regions: false
     location-flags-only-inside-regions: false
     max-region-count-per-player:
-        default: 7
+        default: 1
 auto-invincible: false
 auto-invincible-group: false
 auto-no-drowning-group: false
