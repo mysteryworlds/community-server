@@ -99,7 +99,7 @@ world-settings:
     treasure-maps-return-already-discovered: false
     experience-merge-max-value: -1
     prevent-moving-into-unloaded-chunks: false
-    max-auto-save-chunks-per-tick: 24
+    max-auto-save-chunks-per-tick: 12
     fixed-chunk-inhabited-time: -1
     falling-block-height-nerf: 0
     tnt-entity-height-nerf: 0
@@ -111,7 +111,7 @@ world-settings:
     generator-settings:
       flat-bedrock: false
     game-mechanics:
-      shield-blocking-delay: 5
+      shield-blocking-delay: 10
       disable-chest-cat-detection: false
       disable-player-crits: false
       disable-sprint-interruption-on-attack: false
@@ -139,9 +139,7 @@ world-settings:
         - chest
         - diamond_ore
         - redstone_ore
-        - clay
         - emerald_ore
-        - ender_chest
       replacement-blocks:
         - stone
         - oak_planks
