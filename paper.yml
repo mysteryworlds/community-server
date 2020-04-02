@@ -20,7 +20,7 @@ settings:
   region-file-cache-size: 256
   incoming-packet-spam-threshold: 300
   save-player-data: true
-  use-alternative-luck-formula: false
+  use-alternative-luck-formula: true
   suggest-player-names-when-null-tab-completions: true
   velocity-support:
     enabled: false
