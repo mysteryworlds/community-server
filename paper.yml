@@ -74,7 +74,7 @@ world-settings:
     entities-target-with-follow-range: false
     container-update-tick-rate: 1
     armor-stands-tick: true
-    allow-leashing-undead-horse: false
+    allow-leashing-undead-horse: true
     armor-stands-do-collision-entity-lookups: true
     grass-spread-tick-rate: 1
     parrots-are-unaffected-by-player-movement: false
