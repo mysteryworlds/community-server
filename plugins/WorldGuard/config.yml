@@ -9,7 +9,7 @@ regions:
         username: worldguard
         password: worldguard
         table-prefix: ''
-    use-paper-entity-origin: false
+    use-paper-entity-origin: true
     enable: true
     invincibility-removes-mobs: false
     cancel-chat-without-recipients: true
