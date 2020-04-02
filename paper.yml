@@ -86,7 +86,7 @@ world-settings:
     iron-golems-can-spawn-in-air: false
     use-faster-eigencraft-redstone: true
     prevent-tnt-from-moving-in-water: false
-    baby-zombie-movement-modifier: 0.8
+    baby-zombie-movement-modifier: 0.9
     zombie-villager-infection-chance: -1.0
     mob-spawner-tick-rate: 1
     all-chunks-are-slime-chunks: false
